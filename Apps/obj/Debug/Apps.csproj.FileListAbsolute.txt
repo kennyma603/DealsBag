@@ -1,0 +1,9 @@
+c:\users\kenny\documents\visual studio 2010\Projects\Apps\Apps\bin\Apps.dll
+c:\users\kenny\documents\visual studio 2010\Projects\Apps\Apps\bin\Apps.pdb
+c:\users\kenny\documents\visual studio 2010\Projects\Apps\Apps\bin\EntityFramework.dll
+c:\users\kenny\documents\visual studio 2010\Projects\Apps\Apps\bin\EntityFramework.xml
+c:\users\kenny\documents\visual studio 2010\Projects\Apps\Apps\obj\Debug\ResolveAssemblyReference.cache
+c:\users\kenny\documents\visual studio 2010\Projects\Apps\Apps\obj\Debug\Apps.dll
+c:\users\kenny\documents\visual studio 2010\Projects\Apps\Apps\obj\Debug\Apps.pdb
+C:\Users\Kenny\documents\visual studio 2010\Projects\Apps\Apps\bin\AutoMapper.dll
+C:\Users\Kenny\documents\visual studio 2010\Projects\Apps\Apps\bin\AutoMapper.xml

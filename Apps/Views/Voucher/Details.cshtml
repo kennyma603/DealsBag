@@ -1,0 +1,45 @@
+﻿@model Apps.Models.Voucher
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<fieldset>
+    <legend>Voucher</legend>
+
+    <div class="display-label">Title</div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.Title)
+    </div>
+
+    <div class="display-label">SiteName</div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.SiteName)
+    </div>
+
+    <div class="display-label">DealURL</div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.DealURL)
+    </div>
+
+    <div class="display-label">AddedDate</div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.AddedDate)
+    </div>
+
+    <div class="display-label">ExpirationDate</div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.ExpirationDate)
+    </div>
+
+    <div class="display-label">VoucherFileURL</div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.VoucherFileURL)
+    </div>
+</fieldset>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id=Model.ID }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>
